@@ -1,1 +1,1 @@
-[/Assets/Scripts/Border.cs/](other_file.md)
+[this subtext](/Assets/Scripts/Border.cs)
